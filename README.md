@@ -1,6 +1,6 @@
 # C# Algoritma
 
-DİRENÇ HESAPLAMA
+### DİRENÇ HESAPLAMA
 
  -  R: Direnç 
  -  P: Telin Öz Direnci
